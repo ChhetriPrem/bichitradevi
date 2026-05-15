@@ -1,0 +1,8 @@
+{
+  "name": "Bichitra Devi Portfolio",
+  "description": "Professional portfolio for Bichitra Devi, BA LLB student at JB Law College, featuring legal articles, vlogs, and achievements with an elegant pink aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
